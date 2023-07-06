@@ -14,7 +14,7 @@
 #### 💬 **Ask me about my repo related work and some **Git Knowledge****
 #### 📫 **How to reach me:**
   
-[![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Ryan Grylls&amp;color=orange&amp;style=flat-square)](mailto:ryanbqzhao@gmail.com)
+[![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=RyanGrylls&amp;color=orange&amp;style=flat-square)](mailto:ryanbqzhao@gmail.com)
   
 #### 😄 **Pronouns:**
  waiting fot update :)
