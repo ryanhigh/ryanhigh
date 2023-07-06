@@ -1,5 +1,5 @@
 
-![me](https://github.com/ryanhigh/ryanhigh/raw/main/me2.gif#pic_center)
+![me](https://github.com/ryanhigh/ryanhigh/raw/main/me2.gif")
 
 # R Y A N  🆒 G R Y L L S 🆓
 
