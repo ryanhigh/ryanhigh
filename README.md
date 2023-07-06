@@ -1,6 +1,5 @@
-<div align=center>
-![me](https://github.com/ryanhigh/ryanhigh/raw/main/me2.gif)
-</div>
+
+![me](https://github.com/ryanhigh/ryanhigh/raw/main/me2.gif#pic_center)
 
 # R Y A N  🆒 G R Y L L S 🆓
 
