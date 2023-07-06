@@ -4,22 +4,17 @@
 # Hi there 👋, I'm Ryan Grylls
 
 ## 😅 😭 😘 🥹 🥳
-#### **currently working on**
-  - UnionTech/deepin
-  - deepin/deepin-sysdev-team
-#### 🌱 **currently learning**
-  - BUAA, *undergraduate*
-#### 👯 **I’m looking to collaborate on Linux and macOS**
-#### 🤔 **I’m looking for help with Cryptography and Private Computation**
-#### 💬 **Ask me about my repo related work and some **Git Knowledge****
-#### 📫 **How to reach me:**
-  
+### Personal Stuff 
+  - **currently working on** UnionTech/deepin, deepin/deepin-sysdev-team
+  - 🌱 **currently learning** BUAA, *undergraduate*
+  - 👯 **I’m looking to collaborate on Linux and macOS**
+  - 🤔 **I’m looking for help with Cryptography and Private Computation**
+  - 💬 **Ask me about my repo related work and some **Git Knowledge****
+  - 📫 **How to reach me:**
 [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=RyanGrylls&amp;color=orange&amp;style=flat-square)](mailto:ryanbqzhao@gmail.com)
   
-#### 😄 **Pronouns:**
- waiting fot update :)
-#### ⚡ **Fun fact:**
- many hhh
+  - 😄 **Pronouns:**: waiting fot update :)
+  - ⚡ **Fun fact:** many hhh
 ### Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
