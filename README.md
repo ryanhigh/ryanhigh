@@ -9,7 +9,9 @@ RYAN GRYLLS
 - 🤔 I’m looking for help with Cryptography and Private Computation
 - 💬 Ask me about my repo related work and some **Git Knowledge**
 - 📫 How to reach me:
+<p>
 [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=i@0x7f.cc&amp;color=orange&amp;style=flat-square)](mailto:ryanbqzhao@gmail.com)
+</p>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
