@@ -1,12 +1,9 @@
 ![me](https://github.com/ryanhigh/ryanhigh/raw/main/me2.gif)
 
 <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
-# R Y A N  🆒 G R Y L L S 🆓
+# Hi there 👋, I'm Ryan Grylls
 
 ## 😅 😭 😘 🥹 🥳
-
-### Hi there 👋
-
 #### **currently working on**
   - UnionTech/deepin
   - deepin/deepin-sysdev-team
