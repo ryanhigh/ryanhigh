@@ -21,9 +21,9 @@
 ⚡ **Fun fact:**
  many hhh
 
-**My Github Stats**
-![Ryan Grylls's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhigh&theme=cobalt2&show_icons=true)
-**Log**
+### **My Github Stats**  
+![Ryan Grylls's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanhigh&theme=cobalt2&show_icons=true)  
+### **Log**
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ryanhigh&show_icons=true&theme=tokyonight)
-**Top Langs**
+### **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanhigh)](https://github.com/anuraghazra/github-readme-stats)
